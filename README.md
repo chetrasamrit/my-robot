@@ -2,6 +2,8 @@
 
 ## install vue
 
-### npm create vite@latest my-vue-app
+```bash
+npm create vite@latest my-robot
+ ```
 
 
