@@ -1,13 +1,13 @@
 # My-Robot Project
-## Author Samrit Chetra
-## Position Web Designer
+### Author Samrit Chetra
+### Position Web Designer
 
-## install 
-
-
+#### install 
 
 ```bash
 npm create vite@latest my-robot
  ```
+
+#### layout
 
 
