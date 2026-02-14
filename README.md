@@ -1,6 +1,10 @@
-# Vue + Pinia + Layout
+# My-Robot Project
+## Author Samrit Chetra
+## Position Web Designer
 
-## install vue
+## install 
+
+
 
 ```bash
 npm create vite@latest my-robot
